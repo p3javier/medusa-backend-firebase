@@ -1,0 +1,10 @@
+{
+  "name": "medusa-firebase",
+  "version": "0.1.0",
+  "description": "Firebase Cloud Functions for Medusa Events website",
+  "main": "src/index.ts",
+  "repository": "https://github.com/p3javier/medusa-backend-firebase",
+  "author": "Javier Pérez",
+  "license": "MIT",
+  "private": true
+}
